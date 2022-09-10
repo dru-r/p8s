@@ -9,16 +9,16 @@
 7. [Gorgon 2](#gorgon-2)
 
 ## Opener
-<iframe src="https://www.raidplan.io/plan/mJQcuKwrOTnlXGTP" width="1200" height="1200" frameborder="0" style="border:0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://www.raidplan.io/plan/mJQcuKwrOTnlXGTP" width="1200" height="1000" frameborder="0" style="border:0" scrolling="no" allowfullscreen></iframe>
 
 ## Dog 1
-<iframe src="https://raidplan.io/plan/Cr798DGwf7HnA6FP" width="1200" height="1200" frameborder="0" style="border:0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://raidplan.io/plan/Cr798DGwf7HnA6FP" width="1200" height="1000" frameborder="0" style="border:0" scrolling="no" allowfullscreen></iframe>
 
 ## Gorgon 1
 WIP
 
 ## Illusory Creation
-<iframe src="https://raidplan.io/plan/8zOma5Y-MBy92dr1" width="1200" height="1200" frameborder="0" style="border:0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://raidplan.io/plan/8zOma5Y-MBy92dr1" width="1200" height="1000" frameborder="0" style="border:0" scrolling="no" allowfullscreen></iframe>
 
 ## Fourfold Flames
 WIP
